@@ -42,7 +42,7 @@ function setup() {
 	rectMode(CENTER);
  	World.add(world, ground);
 
-	wall = new Wall(width/2, 600);
+	wall = new Wall(width/2, 650);
 	wall2 = new Walls(500, 620);
 	wall3 = new Wallz(298, 620);
 }
